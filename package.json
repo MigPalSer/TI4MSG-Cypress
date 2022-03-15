@@ -1,0 +1,24 @@
+{
+  "name": "TI4MSG-cypress",
+  "version": "1.0.0",
+  "description": "Testing suite for TI4 Map String Generator with cypress.",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MigPalSer/TI4MSG-Cypress"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MigPalSer/TI4MSG-Cypress/issues"
+  },
+  "homepage": "https://github.com/MigPalSer/TI4MSG-Cypress#readme",
+  "dependencies": {
+    "cypress": "^3.8.3"
+  }
+}

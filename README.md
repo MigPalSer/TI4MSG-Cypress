@@ -1,0 +1,1 @@
+Testing suite for TI4 Map String Generator with cypress.
